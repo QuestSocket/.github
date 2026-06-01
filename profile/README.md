@@ -6,6 +6,5 @@ It started because I needed to get motion data from the my Meta Quest 3S control
 
 Consider supporting on different platforms:
 
-- [Patreon](https://www.patreon.com/cw/QuestSocket)
 - [Tipeee](https://en.tipeee.com/questsocket/)
 - Leaving a GitHub Star!
